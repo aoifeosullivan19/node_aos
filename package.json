@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aoifeosullivan19/node_aos/issues"
   },
-  "homepage": "https://github.com/aoifeosullivan19/node_aos#readme"
+  "homepage": "https://github.com/aoifeosullivan19/node_aos#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
